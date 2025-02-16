@@ -9,7 +9,7 @@ This was my first hackathon, where I learned Figma, created a business plan, and
 ## Business Plan
 Here are the slides from my business plan:
 - ![Buisness plan slide ](https://www.canva.com/design/DAF_f2maLeg/EtrGX4N8Hxt7ScsA8f8wgA/view?utm_content=DAF_f2maLeg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5cbc0ab415)
-![Presentation](1715802275301-1.jpg) 
+![Presentation](presentation.jpg) 
 
 ## Certificate
 Here’s my certificate from the hackathon:
